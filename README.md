@@ -1,5 +1,6 @@
-## Please NOTE I have manually tried to convert th android project into IOS. I have never done or code in swift before. I made research and manual created these files using notePad++,
-Another issue is I dont have a MAC-BOOK laptop to create such apps.
+## Please NOTE I have manually tried to convert the android project into IOS. I have never done or code in swift before. I made a research and manual created these files using notePad++,Another issue is I dont have a MAC-BOOK/laptop to create such apps. But Im looking forward to buy one soon and create more projects in IOS.
+
+## Thank you...Happy coding
 
 ## Features
 
